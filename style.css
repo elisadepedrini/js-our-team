@@ -1,0 +1,28 @@
+.title {
+    color: rgb(255, 0, 115);
+}
+
+.email {
+    text-decoration: none;
+}
+
+
+.card {
+    max-height: 100px;
+   
+}
+
+    & img {
+        height: 100px;
+    }
+
+
+.name {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.job, .email {
+    font-size: 0.8rem;
+}
+
